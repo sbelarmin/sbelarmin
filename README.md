@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 # 👋 Welcome to My GitHub Profile!
+=======
+## Hi there 👋
+🔭 I’m currently working on myself 
+>>>>>>> f2ef8cf (remote to local repository)
 
 Hello! I'm **Scott Belarmino**, a **data scientist** and **analytical leader** with a passion for solving complex problems and driving data-driven decisions. With a strong foundation in analytics and leadership, I've led multiple high-performing teams to success, delivering impactful insights and innovative solutions.
 
 🌟 Formerly, I was a **Senior Business Intelligence Engineer at Amazon**, where I developed scalable analytical tools and frameworks to optimize business performance. Now, as I approach the completion of my **Master's in Data Science at UC Berkeley**, I'm excited to further expand my expertise in machine learning, artificial intelligence, and advanced analytics.
 
+<<<<<<< HEAD
 ## 🚀 About Me
 - 🔍 **Experienced Leader**: Over 10 years leading analytical teams across industries, mentoring talent, and delivering actionable insights.
 - 🎓 **Lifelong Learner**: From SQL and data visualization to cutting-edge machine learning models, I'm always eager to learn and apply new skills.
@@ -28,3 +34,14 @@ I strive to merge cutting-edge data science techniques with robust business acum
 ---
 
 Feel free to explore my projects and repositories. I'm always open to collaboration and discussions on innovative ideas!
+=======
+🔭 I’m currently working on myself 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> f2ef8cf (remote to local repository)
