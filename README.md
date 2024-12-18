@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**sbelarmin/sbelarmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **[Your Name]**, a **data scientist** and **analytical leader** with a passion for solving complex problems and driving data-driven decisions. With a strong foundation in analytics and leadership, I've led multiple high-performing teams to success, delivering impactful insights and innovative solutions.
 
-Here are some ideas to get you started:
+🌟 Formerly, I was a **Senior Business Intelligence Engineer at Amazon**, where I developed scalable analytical tools and frameworks to optimize business performance. Now, as I approach the completion of my **Master's in Data Science at UC Berkeley**, I'm excited to further expand my expertise in machine learning, artificial intelligence, and advanced analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔍 **Experienced Leader**: Over 10 years leading analytical teams across industries, mentoring talent, and delivering actionable insights.
+- 🎓 **Lifelong Learner**: From SQL and data visualization to cutting-edge machine learning models, I'm always eager to learn and apply new skills.
+- 💡 **Innovator**: I love building tools, models, and frameworks that make data accessible, actionable, and impactful.
+
+## 🛠️ Featured Projects
+Here are some of my recent and noteworthy projects:
+
+- 🔗 **[NLP Medical Dialogue Summarization](#)**: Leveraging cutting-edge transformer models like DistilBART and LongBART for summarizing SOAP notes from medical dialogues.
+- 🔗 **[Regression Forecasting Framework](#)**: Developing machine learning models using XGBoost, Random Forest, and LightGBM to predict depression probabilities.
+- 🔗 **[Allocation Optimization Using Graph Analytics](#)**: Designing cost-efficient delivery paths using advanced graph techniques and optimization models.
+
+## 🔗 Quick Links
+- [View My Portfolio](#) 🎯
+- [Explore My Repositories](#) 📂
+- [Connect with Me on LinkedIn](https://www.linkedin.com/in/scott-belarmino-6098719/) 💼
+
+---
+
+## 📈 My Vision
+I strive to merge cutting-edge data science techniques with robust business acumen to solve real-world challenges. Whether it's optimizing complex systems, uncovering insights, or mentoring future data scientists, I'm driven by a passion for making an impact through data.
+
+---
+
+Feel free to explore my projects and repositories. I'm always open to collaboration and discussions on innovative ideas!
