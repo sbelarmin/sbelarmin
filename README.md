@@ -14,7 +14,7 @@ Here are some of my recent and noteworthy projects:
 
 - 🔗 **[NLP Medical Dialogue Summarization](https://github.com/sbelarmin/portfolio_projects/tree/main/NLP_Projects/Dialogue_Summarization/Medical)**: Leveraging cutting-edge transformer models like DistilBART and LongBART for summarizing SOAP notes from medical dialogues.
 - 🔗 **[Regression Forecasting Framework](https://github.com/sbelarmin/portfolio_projects/blob/main/Regression_Projects/Kaggle_Depression/Forecast_Depression.ipynb)**: Developing machine learning models using XGBoost, Random Forest, and LightGBM to predict depression probabilities.
-- 🔗 **[Allocation Optimization Using Graph Analytics](#)**: Designing cost-efficient delivery paths using advanced graph techniques and optimization models.
+- 🔗 **[Allocation Optimization Using Graph Analytics](https://github.com/sbelarmin/portfolio_projects/blob/main/NLP_Projects/Dialogue_Summarization/Medical/05_DistilBART_UMLS_GraphRepresentation_Experiement.ipynb)**: Designing cost-efficient delivery paths using advanced graph techniques and optimization models.
 
 ## 🔗 Quick Links
 - [View My Portfolio](#) 🎯
