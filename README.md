@@ -12,7 +12,7 @@ Hello! I'm **Scott Belarmino**, a **data scientist** and **analytical leader** w
 ## 🛠️ Featured Projects
 Here are some of my recent and noteworthy projects:
 
-- 🔗 **[NLP Medical Dialogue Summarization](#)**: Leveraging cutting-edge transformer models like DistilBART and LongBART for summarizing SOAP notes from medical dialogues.
+- 🔗 **[NLP Medical Dialogue Summarization](https://github.com/sbelarmin/portfolio_projects/tree/main/NLP_Projects/Dialogue_Summarization/Medical)**: Leveraging cutting-edge transformer models like DistilBART and LongBART for summarizing SOAP notes from medical dialogues.
 - 🔗 **[Regression Forecasting Framework](#)**: Developing machine learning models using XGBoost, Random Forest, and LightGBM to predict depression probabilities.
 - 🔗 **[Allocation Optimization Using Graph Analytics](#)**: Designing cost-efficient delivery paths using advanced graph techniques and optimization models.
 
