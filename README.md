@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm **[Your Name]**, a **data scientist** and **analytical leader** with a passion for solving complex problems and driving data-driven decisions. With a strong foundation in analytics and leadership, I've led multiple high-performing teams to success, delivering impactful insights and innovative solutions.
+Hello! I'm **Scott Belarmino**, a **data scientist** and **analytical leader** with a passion for solving complex problems and driving data-driven decisions. With a strong foundation in analytics and leadership, I've led multiple high-performing teams to success, delivering impactful insights and innovative solutions.
 
 🌟 Formerly, I was a **Senior Business Intelligence Engineer at Amazon**, where I developed scalable analytical tools and frameworks to optimize business performance. Now, as I approach the completion of my **Master's in Data Science at UC Berkeley**, I'm excited to further expand my expertise in machine learning, artificial intelligence, and advanced analytics.
 
