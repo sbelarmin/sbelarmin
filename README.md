@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👋 Welcome to My GitHub Profile!
 =======
 ## Hi there 👋
