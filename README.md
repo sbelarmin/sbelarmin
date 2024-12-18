@@ -17,8 +17,7 @@ Here are some of my recent and noteworthy projects:
 - 🔗 **[Allocation Optimization Using Graph Analytics](https://github.com/sbelarmin/portfolio_projects/blob/main/NLP_Projects/Dialogue_Summarization/Medical/05_DistilBART_UMLS_GraphRepresentation_Experiement.ipynb)**: Designing cost-efficient delivery paths using advanced graph techniques and optimization models.
 
 ## 🔗 Quick Links
-- [View My Portfolio](#) 🎯
-- [Explore My Repositories](#) 📂
+- [Explore My Repositories](https://github.com/sbelarmin/portfolio_projects) 📂
 - [Connect with Me on LinkedIn](https://www.linkedin.com/in/scott-belarmino-6098719/) 💼
 
 ---
