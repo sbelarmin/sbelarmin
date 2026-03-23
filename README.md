@@ -1,32 +1,110 @@
-# 👋 Welcome to My GitHub Profile!
-=======
-
-Hello there! I'm **Scott Belarmino**, a **data scientist** and **analytical leader** with a passion for solving complex problems and driving data-driven decisions. With a strong foundation in analytics and leadership, I've led multiple high-performing teams to success, delivering impactful insights and innovative solutions.
-
-🌟 Formerly, I was a **Senior Business Intelligence Engineer at Amazon**, where I developed scalable analytical tools and frameworks to optimize business performance. Now, as I approach the completion of my **Master's in Data Science at UC Berkeley**, I'm excited to further expand my expertise in machine learning, artificial intelligence, and advanced analytics.
-
-## 🚀 About Me
-- 🔍 **Experienced Leader**: Over 10 years leading analytical teams across industries, mentoring talent, and delivering actionable insights.
-- 🎓 **Lifelong Learner**: From SQL and data visualization to cutting-edge machine learning models, I'm always eager to learn and apply new skills.
-- 💡 **Innovator**: I love building tools, models, and frameworks that make data accessible, actionable, and impactful.
-
-## 🛠️ Featured Projects
-Here are some of my recent and noteworthy projects:
-
-- 🔗 **[NLP Medical Dialogue Summarization](https://github.com/sbelarmin/portfolio_projects/tree/main/NLP_Projects/Dialogue_Summarization/Medical)**: Leveraging cutting-edge transformer models like DistilBART and LongBART for summarizing SOAP notes from medical dialogues.
-- 🔗 **[Regression Forecasting Framework](https://github.com/sbelarmin/portfolio_projects/blob/main/Regression_Projects/Kaggle_Depression/Forecast_Depression.ipynb)**: Developing machine learning models using XGBoost, Random Forest, and LightGBM to predict depression probabilities.
-- 🔗 **[Allocation Optimization Using Graph Analytics](https://github.com/sbelarmin/portfolio_projects/blob/main/NLP_Projects/Dialogue_Summarization/Medical/05_DistilBART_UMLS_GraphRepresentation_Experiement.ipynb)**: Designing cost-efficient delivery paths using advanced graph techniques and optimization models.
-
-## 🔗 Quick Links
-- [Explore My Repositories](https://github.com/sbelarmin/portfolio_projects) 📂
-- [Connect with Me on LinkedIn](https://www.linkedin.com/in/scott-belarmino-6098719/) 💼
+# Scott Belarmino
+**Data Scientist | Causal Inference • Experimentation • Marketplace & Growth Analytics**
 
 ---
 
-## 📈 My Vision
-I strive to merge cutting-edge data science techniques with robust business acumen to solve real-world challenges. Whether it's optimizing complex systems, uncovering insights, or mentoring future data scientists, I'm driven by a passion for making an impact through data.
+## About Me
+
+I’m a data scientist with 10+ years of experience driving product and business decisions through data.
+
+Previously a **Senior Business Intelligence Engineer at Amazon**, I built analytical frameworks to support large-scale decision-making across customer experience and marketplace systems.
+
+I recently completed my **Master’s in Data Science at UC Berkeley**, where I focused on:
+- Causal inference & experimentation
+- Machine learning systems
+- Applied analytics for real-world business problems
+
+My work sits at the intersection of **data science and product strategy** — helping teams answer not just *what happened*, but *what should we do next*.
 
 ---
 
-Feel free to explore my projects and repositories. I'm always open to collaboration and discussions on innovative ideas!
-=======
+## What I Focus On
+
+- **Causal Inference & Experimentation**
+  - A/B testing, observational causal methods (DiD, IPW, matching)
+  - Estimating true business impact vs. naive correlations
+
+- **Marketplace & Pricing Dynamics**
+  - Buy Box optimization, pricing strategy, competitive dynamics
+  - Tradeoffs between margin, conversion, and fulfillment
+
+- **Decision Systems**
+  - Translating models into actionable business levers
+  - Building metrics frameworks and experimentation pipelines
+
+---
+
+## Featured Projects
+
+### Marketplace Buy Box: Causal Price Effect
+**Goal:** Understand whether having the lowest price *causally* drives Buy Box wins
+
+- Built a synthetic marketplace dataset with realistic competitive dynamics
+- Compared naive vs causal estimates (propensity scoring, regression adjustment)
+- Quantified bias from confounding (FBA, shipping speed, seller quality)
+
+[View Project](https://github.com/sbelarmin/free-shipping-threshold-experiment)  
+Key takeaway: Naive estimates significantly overstate the impact of price
+
+---
+
+###  Free Shipping Threshold Experiment
+**Goal:** Identify optimal threshold balancing conversion and margin
+
+- Designed full A/B experiment (hypothesis → power analysis → evaluation)
+- Modeled tradeoffs between AOV, conversion, and contribution margin
+- Built end-to-end experimentation analysis pipeline
+
+[View Project](https://github.com/sbelarmin/free-shipping-threshold-experiment)
+
+---
+
+### NLP Medical Dialogue Summarization
+**Goal:** Generate structured SOAP notes from doctor-patient conversations
+
+- Implemented transformer-based models (DistilBART, LongBART)
+- Evaluated summarization quality using standard NLP metrics
+- Explored domain-specific enhancements using medical ontologies
+
+[View Project](https://github.com/sbelarmin/portfolio_projects/tree/main/NLP_Projects/Dialogue_Summarization/Medical)
+
+---
+
+## Senior Data Scientist Playbook
+
+A collection of frameworks I use to approach ambiguous business problems and translate them into data science solutions.
+
+- Hypothesis-driven problem framing
+- Experiment design and evaluation
+- Causal inference vs. correlation
+- Metric design and tradeoff analysis
+- Common pitfalls in real-world data science
+
+[View Playbook](https://github.com/sbelarmin/senior-ds-playbook)
+
+---
+
+## 📂 Portfolio
+
+[Full Project Repository](https://github.com/sbelarmin/portfolio_projects)
+
+---
+
+## How I Think
+
+I approach problems using a simple loop:
+
+**Belief → Evidence → Update**
+
+- Start with a clear hypothesis
+- Validate with data (experiment or observational)
+- Quantify uncertainty and tradeoffs
+- Translate into business decisions
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/scott-belarmino-6098719/)
+
+---
