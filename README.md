@@ -43,7 +43,7 @@ My work sits at the intersection of **data science and product strategy** — he
 - Compared naive vs causal estimates (propensity scoring, regression adjustment)
 - Quantified bias from confounding (FBA, shipping speed, seller quality)
 
-[View Project](https://github.com/sbelarmin/free-shipping-threshold-experiment)  
+[View Project](https://github.com/sbelarmin/amazon-buy-box-marketplace)  
 Key takeaway: Naive estimates significantly overstate the impact of price
 
 ---
