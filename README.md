@@ -80,7 +80,7 @@ A collection of frameworks I use to approach ambiguous business problems and tra
 - Metric design and tradeoff analysis
 - Common pitfalls in real-world data science
 
-[View Playbook](https://github.com/sbelarmin/senior-ds-playbook)
+[View Playbook](https://github.com/sbelarmin/data-science-playbook)
 
 ---
 
