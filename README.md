@@ -55,7 +55,8 @@ Key takeaway: Naive estimates significantly overstate the impact of price
 - Modeled tradeoffs between AOV, conversion, and contribution margin
 - Built end-to-end experimentation analysis pipeline
 
-[View Project](https://github.com/sbelarmin/free-shipping-threshold-experiment)
+[View Project](https://github.com/sbelarmin/free-shipping-threshold-experiment)  
+Key takeaway: Results support current policy and avoids reactive decision making
 
 ---
 
