@@ -44,7 +44,7 @@ Key takeaway: Naive estimates significantly overstate the impact of price
 
 ---
 
-### Free Shipping Threshold Experiment
+### Free Shipping Threshold A/B Experiment
 **Goal:** Identify the optimal free shipping threshold balancing conversion and margin
 
 - Designed full A/B experiment (hypothesis, power analysis, evaluation)
