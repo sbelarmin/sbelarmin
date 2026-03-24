@@ -20,16 +20,6 @@ My work sits at the intersection of data science and product strategy — helpin
 
 ## Featured Projects
 
-### Holiday Promotion: Causal Impact on Margin
-**Goal:** Estimate the true incremental impact of a targeted promotion using observational data
-
-- Built a causal inference pipeline (Naive → DiD → TWFE → IPW → Event Study)
-- Identified and corrected for selection bias in targeted promotions
-- Estimated ~-$4.6 incremental margin per exposed user-day
-
-[View Project](https://github.com/sbelarmin/holiday-promotion-causal-inference)  
-Key takeaway: Promotions increased volume but were economically destructive without long-term value
-
 ---
 
 ### Amazon Marketplace Buy Box: Causal Price Effect
@@ -41,6 +31,18 @@ Key takeaway: Promotions increased volume but were economically destructive with
 
 [View Project](https://github.com/sbelarmin/amazon-buy-box-marketplace)  
 Key takeaway: Naive estimates significantly overstate the impact of price
+
+---
+
+### Holiday Promotion: Causal Impact on Margin
+**Goal:** Estimate the true incremental impact of a targeted promotion using observational data
+
+- Built a causal inference pipeline (Naive → DiD → TWFE → IPW → Event Study)
+- Identified and corrected for selection bias in targeted promotions
+- Estimated ~-$4.6 incremental margin per exposed user-day
+
+[View Project](https://github.com/sbelarmin/holiday-promotion-causal-inference)  
+Key takeaway: Promotions increased volume but were economically destructive without long-term value
 
 ---
 
