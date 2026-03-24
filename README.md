@@ -34,6 +34,18 @@ Key takeaway: Naive estimates significantly overstate the impact of price
 
 ---
 
+### E-commerce Free Shipping A/B/n Experiment
+**Goal:** Identify the optimal free shipping threshold balancing conversion and margin
+
+- Designed full A/B experiment (hypothesis, power analysis, evaluation)
+- Modeled tradeoffs between AOV, conversion, and contribution margin
+- Built an end-to-end experimentation analysis framework
+
+[View Project](https://github.com/sbelarmin/free-shipping-threshold-experiment)  
+Key takeaway: Structured experimentation avoids reactive and margin-destructive decisions
+
+---
+
 ### Holiday Promotion: Causal Impact on Margin
 **Goal:** Estimate the true incremental impact of a targeted promotion using observational data
 
@@ -43,18 +55,6 @@ Key takeaway: Naive estimates significantly overstate the impact of price
 
 [View Project](https://github.com/sbelarmin/holiday-promotion-causal-inference)  
 Key takeaway: Promotions increased volume but were economically destructive without long-term value
-
----
-
-### Free Shipping Threshold A/B Experiment
-**Goal:** Identify the optimal free shipping threshold balancing conversion and margin
-
-- Designed full A/B experiment (hypothesis, power analysis, evaluation)
-- Modeled tradeoffs between AOV, conversion, and contribution margin
-- Built an end-to-end experimentation analysis framework
-
-[View Project](https://github.com/sbelarmin/free-shipping-threshold-experiment)  
-Key takeaway: Structured experimentation avoids reactive and margin-destructive decisions
 
 ---
 
