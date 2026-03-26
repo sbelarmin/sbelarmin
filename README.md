@@ -72,38 +72,12 @@ Key takeaway: Promotions increased volume but were economically destructive with
   - Translating models into actionable business levers  
   - Building metrics frameworks and experimentation pipelines  
 
----
-
-## Senior Data Scientist Playbook
-
-Frameworks I use to approach ambiguous business problems and translate them into data science solutions:
-
-- Hypothesis-driven problem framing  
-- Experiment design and evaluation  
-- Causal inference vs. correlation  
-- Metric design and tradeoff analysis  
-- Common pitfalls in real-world data science  
-
-[View Playbook](https://github.com/sbelarmin/data-science-playbook)
 
 ---
 
 ## Portfolio
 
 [Full Project Repository](https://github.com/sbelarmin/portfolio_projects)
-
----
-
-## How I Think
-
-I approach problems using a simple loop:
-
-Belief → Evidence → Update
-
-- Start with a clear hypothesis  
-- Validate with data (experiment or observational)  
-- Quantify uncertainty and tradeoffs  
-- Translate into business decisions  
 
 ---
 
